@@ -6,8 +6,9 @@ I will also attach mathematical solutions for the said algorithms
 
 Hope you find what you are looking for!
 
-### Models implemented till date
-1. [Linear Regression](https://github.com/dennismwagiru/machine-learning/tree/main/linear-regression)
+### Items covered till date
+1. [Calculus](https://github.com/dennismwagiru/machine-learning/tree/main/calculus)
+2. [Linear Regression](https://github.com/dennismwagiru/machine-learning/tree/main/linear-regression)
    - [1-D Model](https://github.com/dennismwagiru/machine-learning/tree/main/linear-regression/1d-model)
 
 ### Motivation
