@@ -34,8 +34,11 @@ Hope you find what you are looking for!
          - [Making graphs look nicer](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/python-intro/Plotting%20dots%20and%20lines.ipynb)
          - [Images](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/python-intro/Plotting%20dots%20and%20lines.ipynb)
 
-   - [Functions](https://github.com/dennismwagiru/machine-learning/tree/main/calculus/python-intro)
-      - [Ploting functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/ploting-functions.ipynb)
+   - [Functions](https://github.com/dennismwagiru/machine-learning/tree/main/calculus/functions)
+      - Visualizing functions
+      - Domain & Range
+      - Linear and nonlinear functions
+      - [Ploting functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/ploting-functions.ipynb) 
 
 
 3. [Linear Regression](https://github.com/dennismwagiru/machine-learning/tree/main/linear-regression)
