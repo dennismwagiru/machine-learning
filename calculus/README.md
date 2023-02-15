@@ -21,4 +21,7 @@
 
 2. [Functions](https://github.com/dennismwagiru/machine-learning/tree/main/calculus/python-intro)
 
-    - [Ploting functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/ploting-functions.ipynb)
+    - Visualizing functions
+    - Domain & Range
+    - Linear and nonlinear functions
+    - [Ploting functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/ploting-functions.ipynb) 
