@@ -39,6 +39,8 @@ Hope you find what you are looking for!
       - Domain & Range
       - Linear and nonlinear functions
       - [Ploting functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/ploting-functions.ipynb) 
+      - [Polynomial functions](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/polynomials.ipynb) 
+      - [Estimate a sine wave with polynomials](https://github.com/dennismwagiru/machine-learning/blob/main/calculus/functions/estimate-sine-wave.ipynb) $$\sum_{n=1}^{\infty}(-1)^{n+1}\frac{x^{2n-1}}{2n-1}!$$ 
 
 
 3. [Linear Regression](https://github.com/dennismwagiru/machine-learning/tree/main/linear-regression)
