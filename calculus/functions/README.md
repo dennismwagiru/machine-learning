@@ -12,3 +12,5 @@ $$\sum_{n=1}^{\infty}(-1)^{n+1}\frac{x^{2n-1}}{2n-1}!$$
     - Estimate e
     - Visualize e's approach
     - Exploring e in numpy
+    - Exploring log in numpy
+    - Exponent and log rules (sympy)
